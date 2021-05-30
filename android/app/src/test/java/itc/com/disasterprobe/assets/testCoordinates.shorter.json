@@ -1,0 +1,16 @@
+{"mission":[
+{"latitude":"45.70500779","longitude":"4.84985288","altitude":"26","gimbal_pitch":"-33","yaw":"-5"},
+{"latitude":"45.70500779","longitude":"4.84985288","altitude":"26","gimbal_pitch":"-5","yaw":"-5"},
+{"latitude":"45.70500779","longitude":"4.84985288","altitude":"26","gimbal_pitch":"-33","yaw":"32"},
+{"latitude":"45.70500779","longitude":"4.84985288","altitude":"26","gimbal_pitch":"-5","yaw":"32"},
+{"latitude":"45.70503451","longitude":"4.85016863","altitude":"41","gimbal_pitch":"-47","yaw":"-42"},
+{"latitude":"45.70503451","longitude":"4.85016863","altitude":"41","gimbal_pitch":"-27","yaw":"-42"},
+{"latitude":"45.70503451","longitude":"4.85016863","altitude":"41","gimbal_pitch":"-47","yaw":"-5"},
+{"latitude":"45.70503451","longitude":"4.85016863","altitude":"41","gimbal_pitch":"-27","yaw":"-5"},
+{"latitude":"45.70506449","longitude":"4.85030957","altitude":"41","gimbal_pitch":"-27","yaw":"-28"},
+{"latitude":"45.70506449","longitude":"4.85030957","altitude":"41","gimbal_pitch":"-27","yaw":"-28"},
+{"latitude":"45.70512643","longitude":"4.85042737","altitude":"41","gimbal_pitch":"-27","yaw":"-48"},
+{"latitude":"45.70512643","longitude":"4.85042737","altitude":"41","gimbal_pitch":"-27","yaw":"-48"},
+{"latitude":"45.70521287","longitude":"4.85050783","altitude":"36","gimbal_pitch":"-20","yaw":"-68"},
+{"latitude":"45.70521287","longitude":"4.85050783","altitude":"26","gimbal_pitch":"-5","yaw":"-68"}
+]}

@@ -1,0 +1,13 @@
+version: '2'
+services:
+  rtmp_server:
+    container_name: 'rtmp_server'
+    image: alqutami/rtmp-hls
+    volumes: 
+      - './rtmp_server/videos:/tmp/videos'
+      - './rtmp_server/nginx.conf:/etc/nginx/nginx.conf'
+    ports:
+      - '8080:8080'
+      - '1935:1935'
+    restart: "no"
+

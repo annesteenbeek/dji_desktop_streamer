@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">disasterProbe</string>
+    <string name="start_discover">Start Discovery</string>
+    <string name="iphint">192.168.1.10:3000</string>
+</resources>

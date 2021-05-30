@@ -1,0 +1,44 @@
+{
+  "files.associations": {
+    ".babelrc": "jsonc",
+    ".eslintrc": "jsonc",
+    ".prettierrc": "jsonc",
+    ".stylelintrc": "json",
+    ".dockerignore": "ignore",
+    ".eslintignore": "ignore"
+  },
+  "javascript.validate.enable": false,
+  "flow.useNPMPackagedFlow": true,
+  "search.exclude": {
+    ".git": true,
+    ".eslintcache": true,
+    "app/dist": true,
+    "app/main.prod.js": true,
+    "app/main.prod.js.map": true,
+    "bower_components": true,
+    "dll": true,
+    "release": true,
+    "node_modules": true,
+    "npm-debug.log.*": true,
+    "test/**/__snapshots__": true,
+    "yarn.lock": true,
+    "*.{css,sass,scss}.d.ts": true
+  },
+  "eslint.options": {
+    "rules": {
+        "quotes": ["warn", "single"],
+        "block-spacing": "off",
+        "function-paren-newline": "off"
+    }
+},
+"python.autoComplete.extraPaths": [
+  "/home/anne/tello_ws/devel/lib/python2.7/dist-packages",
+  "/opt/ros/melodic/lib/python2.7/dist-packages"
+],
+"ros.distro": "melodic",
+"python.analysis.extraPaths": [
+  "/home/anne/tello_ws/devel/lib/python2.7/dist-packages",
+  "/opt/ros/melodic/lib/python2.7/dist-packages"
+],
+"python.pythonPath": "/usr/bin/python3.6"
+}

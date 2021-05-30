@@ -1,0 +1,26 @@
+## General
+[ ] Mavic mini support
+[x] Flight speed from mission
+[~] .csv file upload
+[ ] NSD improvements (long discovery when desktop app starts after android) Solved when rebooting node?
+[x] Share position
+[ ] Incorrect GPS coordinates on app
+[x] Keep screen active
+[ ] Desktop, show starting waypoint
+[ ] Mission progress in app
+[ ] Video view in desktop app
+
+## Android
+[ ] Downloads not being registered
+[ ] improve connectingHelper
+[ ] Reset values on new mission
+[ ] Starts livestream all the time? (toasts) (starts livestream before pc is found) (or found is not registered in UI)
+
+## Windows Compiling
+[ ] Still missing icons
+
+## Bugs
+[ ] App startup, (e.g. opening the app, socket reconnections, opening app when connected)
+[ ] still flakey finding connection
+[ ] Moving files, no such file or directory rename tmp
+[ ] Unreliabale rtmp connection on start
